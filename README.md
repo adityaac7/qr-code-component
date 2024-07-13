@@ -13,7 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -30,70 +29,36 @@ The project aims to provide a straightforward example of integrating a QR code i
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-BEVXnvCfMN)
 - Live Site URL: https://adityaac7.github.io/qr-code-component/
 
 ## My process
 
-Before starting with the code, I went through all the resources I had and would need in order to complete it perfectly. This included reviewing the design on the .fig file and other images. 
+Before starting with the code, I went through all the resources I had and would need in order to complete it perfectly. This included reviewing the design on the .fig file and other images. I drew all the components into boxes in my mind, and replicated it into HTML using `<div>`s and other elements. Used flexbox to organise all content. Had some difficulties centering the content in the viewport and changing the background-color in the entire viewport, resolved succesfully by trying different things out.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Learned how to successfully center an element in the middle of a page/viewport, work with figma designs, how to start with GitHub by building the project in a public repository, commiting changes in a project, and a lot more.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I'm still not a 100% sure about my CSS and there are definitely ways to make my code simpler and cleaner. For example, the use of flexbox in my project might not even be needed, yet I have used it. I am waiting on feedback from seniors in my community and will make changes accordingly. There is a high possibility that I will add extra features to this project in the future and make it more dynamic and useful for general use.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Frontendmentor's Discord Community](https://discord.gg/UAfh3qzhYb) - I recieved help from seniors in this community when I was stuck on how to vertically center an element in the viewport. I recommend it to anyone who needs feedback or suggestions regarding their project as well.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Article on how to center a div](https://www.joshwcomeau.com/css/center-a-div/) - This is an amazing article which helped me fully understand centering any element (here, a `<div>`). I'd recommend it to anyone still learning this concept.
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@adityaac7](https://www.frontendmentor.io/profile/adityaac7)
+- GitHub - [@adityaac7](https://github.com/adityaac7)

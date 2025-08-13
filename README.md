@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 Welcome to the QR-Code Component Project! This project demonstrates a simple, static QR code component built using HTML and CSS. The component displays a single QR code that, when scanned, directs the user to the Frontend Mentor hoempage (url: https://www.frontendmentor.io/). The QR code is non-dynamic, meaning it consistently points to the same URL without any interactive or programmable changes.
